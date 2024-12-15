@@ -104,3 +104,9 @@ Only one person is set as a collaborator on NPM, so they're the only person that
 Use the "release alpha" label on your PR to have an alpha version published automatically. This automation currently doesn't check whether an alpha exists for the version it will try to publish. If you need to publish two alphas from one PR you'll need to fix that
 
 Remember that these versions are public and folk might use them, so make sure they're not _too_ alpha 🙈
+
+benjion 
+
+oppp
+
+hunssh
